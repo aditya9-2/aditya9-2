@@ -24,7 +24,7 @@
 
 - 💪 Passionate about **`Learn new Technologies`**
 
-- 📫 How to reach me - **aadityabasak7031@gmail.com**
+- 📫 How to reach me - **adityabasak7031@gmail.com**
 
 - ⚡ Fun fact - **`I am Lazy but i deliver my work on time`**
 
