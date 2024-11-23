@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://x.com/aadityaa027" target="_blank"><img src="https://img.shields.io/twitter/follow/aadityaa027?logo=twitter&style=for-the-badge" alt="@aadityaa027" /></a> </p>
 
-- 🌱 I’m currently learning **`Full Stack Developer and Devops`**
+- 🌱 I’m currently learning **`Full Stack Development and Devops`**
 
 - 💬 Ask me about **`Data Structure, MERN, Javascript, C, C++, Python`**
 
