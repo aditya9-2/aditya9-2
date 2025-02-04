@@ -10,26 +10,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=aditya9-2&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://x.com/aadityaa027" target="_blank"><img src="https://img.shields.io/twitter/follow/aadityaa027?logo=twitter&style=for-the-badge" alt="@aadityaa027" /></a> </p>
-
-- 🌱 I’m currently learning **`Full Stack Development and Devops`**
-
-- 💬 Ask me about **`Data Structure, MERN, Javascript, C, C++, Python`**
-
-- 🚀 Love to talk about **`Research and Innovation!`**
-
-- 📝 Checkout my [resume](./assets/Aditya-Resume.pdf)
-
-- 💻 Most used line of code `git commit -m "Project working succefully"`
-
-- 💪 Passionate about **`Learn new Technologies`**
-
-- 📫 How to reach me - **adityabasak7031@gmail.com**
-
-- ⚡ Fun fact - **`I am Lazy but i deliver my work on time`**
-
-<br />
-
 ## **🌐 Connect With Me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityabasak20)
@@ -38,42 +18,7 @@
 
 <br />
 
-## **💻 Coding Profile:**
-
-<p align="left">
-<a href='https://www.geeksforgeeks.org/user/aaditya0001/' target="_blank"><img alt='geeksforgeeks' src='https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=12FF00&labelColor=D7D4D4&color=FFFFFF'/></a>
-<a href="https://leetcode.com/u/d6LcgiwjcY/" target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
-<a href='https://www.naukri.com/code360/profile/aditya2002' target="_blank"><img alt='codingninjas' src='https://img.shields.io/badge/Coding_Ninjas-100000?style=plastic&logo=codingninjas&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
-</p>
-
-<br />
-
-## **💻 Languages and Tools:**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<br />
+>
 
 # **📈 Activity Graph:**
 
