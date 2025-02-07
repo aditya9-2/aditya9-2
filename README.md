@@ -53,5 +53,5 @@
 ## **🎯 GitHub Streak Stats:**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya9-2&theme=highcontrast&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya9-2&theme=highcontrast&hide_border=true"/>
 </p>
