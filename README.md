@@ -49,9 +49,3 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya9-2&theme=github_dark" />
 </p>
-
-## **🎯 GitHub Streak Stats:**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya9-2&theme=highcontrast&hide_border=true"/>
-</p>
