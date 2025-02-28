@@ -1,7 +1,3 @@
-
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 [![](https://visitcount.itsvg.in/api?id=aditya9-2&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <br/>
