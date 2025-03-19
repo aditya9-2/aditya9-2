@@ -8,14 +8,6 @@
 
 <br />
 
-## **💡 GitHub Stats:**
-
-<p align="center">
-<a href="https://github.com/aditya9-2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya9-2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya9-2&exclude_repo=PortfolioTemplate&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
 
 ## **💳 GitHub Profile Summary Card:**
 
