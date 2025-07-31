@@ -1,3 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=aditya9-2&label=Profile%20views&color=0e75b6&style=flat-square)
+
+
+
 # **📈 Activity Graph:**
 
 <p align="center">
